@@ -1,0 +1,16 @@
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.AssemblyInfoInputs.cache
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.AssemblyInfo.cs
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.csproj.CoreCompileInputs.cache
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.exe
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.deps.json
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.runtimeconfig.json
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.runtimeconfig.dev.json
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.dll
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\ref\SmallWorldPhenomenon.dll
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\bin\Debug\net5.0\SmallWorldPhenomenon.pdb
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.dll
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\ref\SmallWorldPhenomenon.dll
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.pdb
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.genruntimeconfig.cache
+C:\Users\Sondos\source\repos\SmallWorldPhenomenon\SmallWorldPhenomenon\obj\Debug\net5.0\SmallWorldPhenomenon.csproj.AssemblyReference.cache
